@@ -1,0 +1,6 @@
+.sobreMi {
+    width: 100%;
+    height: 110vh;
+    display: flex;
+    flex-direction: column;
+}

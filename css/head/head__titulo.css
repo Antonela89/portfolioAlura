@@ -1,0 +1,13 @@
+.head__titulo {
+    width: 10%;
+    font-size: 1.5rem;
+    font-family: var(--fuente-titulo);
+    text-transform: uppercase;
+    margin: 0 1rem;
+    text-align: center;
+    color: black;
+}
+
+.head__titulo:hover {
+    color: var(--color5);
+}

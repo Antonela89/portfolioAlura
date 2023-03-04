@@ -1,0 +1,30 @@
+.redes {
+    width: 30%;
+    height: 50%;
+    margin-right: 3rem;
+    text-align: start;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.redes__item {
+    list-style: none;
+}
+
+.redes__link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.redes__icono {
+    width: 30%;
+    margin: 4%
+
+}
+
+.redes__link:hover {
+    color: var(--color5)
+}

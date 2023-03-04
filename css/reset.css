@@ -1,0 +1,23 @@
+:root {
+    --color1: #3C210E;
+    --color2: #EAE6E3;
+    --color3: #606B6E;
+    --color4: #BCBFAF;
+    --color5: #CCE47F;
+    --color6: #7D5C39;
+
+    --fuente-titulo: 'Shadows Into Light', cursive;
+}
+
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ul, li {
+    padding: 0;
+}

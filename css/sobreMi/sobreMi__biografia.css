@@ -1,0 +1,44 @@
+.sobreMi__biografia {
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    background-color: var(--color6);
+    border-top: 3px solid var(--color5);
+}
+
+.biografia {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.biografia__descripcion {
+    width: 70%;
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.biografia__titulo {
+    width: 100%;
+    margin-bottom: 1rem;
+    display: flex;
+    font-family: var(--fuente-titulo);
+    text-transform: uppercase;
+    font-size: 2rem;
+    justify-content: center;
+}
+
+.biografia__titulo:hover {
+    color: var(--color5)
+}
+
+.descripcion__texto {
+    margin: 0;
+    width: 90%;
+}
